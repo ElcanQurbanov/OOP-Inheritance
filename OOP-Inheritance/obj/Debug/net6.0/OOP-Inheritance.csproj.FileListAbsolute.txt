@@ -1,0 +1,15 @@
+C:\Users\cavid\Desktop\C# codes\OOP-Inheritance\OOP-Inheritance\obj\Debug\net6.0\OOP-Inheritance.csproj.AssemblyReference.cache
+C:\Users\cavid\Desktop\C# codes\OOP-Inheritance\OOP-Inheritance\obj\Debug\net6.0\OOP-Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cavid\Desktop\C# codes\OOP-Inheritance\OOP-Inheritance\obj\Debug\net6.0\OOP-Inheritance.AssemblyInfoInputs.cache
+C:\Users\cavid\Desktop\C# codes\OOP-Inheritance\OOP-Inheritance\obj\Debug\net6.0\OOP-Inheritance.AssemblyInfo.cs
+C:\Users\cavid\Desktop\C# codes\OOP-Inheritance\OOP-Inheritance\obj\Debug\net6.0\OOP-Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\cavid\Desktop\C# codes\OOP-Inheritance\OOP-Inheritance\bin\Debug\net6.0\OOP-Inheritance.exe
+C:\Users\cavid\Desktop\C# codes\OOP-Inheritance\OOP-Inheritance\bin\Debug\net6.0\OOP-Inheritance.deps.json
+C:\Users\cavid\Desktop\C# codes\OOP-Inheritance\OOP-Inheritance\bin\Debug\net6.0\OOP-Inheritance.runtimeconfig.json
+C:\Users\cavid\Desktop\C# codes\OOP-Inheritance\OOP-Inheritance\bin\Debug\net6.0\OOP-Inheritance.dll
+C:\Users\cavid\Desktop\C# codes\OOP-Inheritance\OOP-Inheritance\bin\Debug\net6.0\OOP-Inheritance.pdb
+C:\Users\cavid\Desktop\C# codes\OOP-Inheritance\OOP-Inheritance\obj\Debug\net6.0\OOP-Inheritance.dll
+C:\Users\cavid\Desktop\C# codes\OOP-Inheritance\OOP-Inheritance\obj\Debug\net6.0\refint\OOP-Inheritance.dll
+C:\Users\cavid\Desktop\C# codes\OOP-Inheritance\OOP-Inheritance\obj\Debug\net6.0\OOP-Inheritance.pdb
+C:\Users\cavid\Desktop\C# codes\OOP-Inheritance\OOP-Inheritance\obj\Debug\net6.0\OOP-Inheritance.genruntimeconfig.cache
+C:\Users\cavid\Desktop\C# codes\OOP-Inheritance\OOP-Inheritance\obj\Debug\net6.0\ref\OOP-Inheritance.dll
